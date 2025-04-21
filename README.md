@@ -87,8 +87,8 @@ Here are some highlights from my repositories:
 
 I'm always open to discussing data science, new opportunities, or interesting projects. Feel free to reach out!
 
-*   **LinkedIn:** [`https://www.linkedin.com/in/vijaykumaringle`]
-*   **Twitter:** [`https://x.com/___vijaykumar`]
+*   **LinkedIn:** https://www.linkedin.com/in/vijaykumaringle
+*   **Twitter:** https://x.com/___vijaykumar
 
 <!--
 *   **(Optional) Portfolio/Website:** [`NA`]
