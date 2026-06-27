@@ -48,6 +48,13 @@ Currently, I'm building AI-native products focused on transforming business oper
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
+### Frontend
+
+* React
+* NextJS
+* Typescript
+  
+
 ### Backend
 
 * Python
@@ -85,7 +92,6 @@ Currently, I'm building AI-native products focused on transforming business oper
 * Docker
 * Git
 * GitHub
-* GitHub Actions
 * Postman
 
 ### Databases
