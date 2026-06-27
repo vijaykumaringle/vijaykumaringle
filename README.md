@@ -50,7 +50,7 @@ Currently, I'm building AI-native products focused on transforming business oper
 
 ### Backend
 
-* ASP.NET Core
+* Python
 * .NET
 * REST APIs
 * Microservices
@@ -68,8 +68,10 @@ Currently, I'm building AI-native products focused on transforming business oper
 ### Artificial Intelligence
 
 * OpenAI APIs
+* Gemini
 * LangChain
 * LangGraph
+* CrewAI
 * MCP
 * AI Agents
 * RAG
